@@ -1,0 +1,6 @@
+img { display:block; margin: auto; background-color:rgb(177, 169, 169);}
+h2 { color:rgb(15, 70, 116); background-color:rgb(177, 169, 169);}
+h1 { text-align: center; color: rgb(15, 70, 116); background-color:rgb(177, 169, 169);}
+header {background-color:rgb(177, 169, 169); }
+#color-fondo { color: rgb(249, 249, 250); text-align: center; background-color: rgb(20, 20, 197);}
+.negrita { font-weight: bold;}
